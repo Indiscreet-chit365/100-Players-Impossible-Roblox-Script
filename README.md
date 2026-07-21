@@ -1,4 +1,4 @@
-<img width="1280" height="720" alt="100 Players Impossible Script OP Auto Win 2026 Banner" src="https://github.com/user-attachments/assets/3ec1a8fd-507a-420c-be5c-ca63c1291f63" />
+<img width="1280" height="720" alt="100 Players Impossible Script OP Auto Win 2026 Banner" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F2sV3QkSh8tY%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=5e0023c37d6390e111b13652d24d2fdc6324e6b15862fcfd1e916813ae9f31eb" />
 
 # 🎯 100 Players Impossible - OP Auto Win 2026
 
