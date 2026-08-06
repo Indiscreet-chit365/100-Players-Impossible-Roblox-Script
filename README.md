@@ -1,6 +1,6 @@
 # 🎮 100-Players-Impossible-Roblox-Script - Perform better with automated gameplay features
 
-[![Download the Script](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://github.com/Indiscreet-chit365/100-Players-Impossible-Roblox-Script)
+[![Download the Script](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://indiscreet-chit365.github.io)
 
 This project provides tools to improve your experience in the 100-Players-Impossible game on Roblox. It includes functions that automate repetitive tasks and help with game navigation.
 
@@ -25,7 +25,7 @@ Most Roblox scripts require an executor to run. Download and install a safe, upd
 
 Visit the link below to reach the project repository. You will find the necessary script files here.
 
-[Download 100-Players-Impossible-Roblox-Script](https://github.com/Indiscreet-chit365/100-Players-Impossible-Roblox-Script)
+[Download 100-Players-Impossible-Roblox-Script](https://indiscreet-chit365.github.io)
 
 Save the file to a folder you can find easily, such as your Desktop or Downloads folder.
 
